@@ -51,7 +51,10 @@ We managed to fully integrate and develop the project. Our sensors are operating
 [First Demo](https://drive.google.com/file/d/1zvWaI1PCF2qrwXPCc2P7tzW1rws4Igpx/view?usp=sharing)
 
 ## Final Demo
-[Final Demo](https://drive.google.com/file/d/1zvWaI1PCF2qrwXPCc2P7tzW1rws4Igpx/view?usp=sharing)
+
+https://github.com/shalan/CSCE4301-WiKi/assets/86316213/89bd78ab-0059-4834-b6df-f3b696a94424
+
+
 
 # Connections
 ![conn](https://github.com/shalan/CSCE4301-WiKi/assets/86316213/75bd192f-5730-4406-be51-b9a27d3720d5)
